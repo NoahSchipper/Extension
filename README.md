@@ -12,6 +12,7 @@ This is my personal website, built to showcase my background, technical skills, 
 ## File Structure
 
 website/
+
 ├── assets/ # Logos, resume, social media icons, and images
 
 ├── about.html
