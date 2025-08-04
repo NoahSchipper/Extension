@@ -28,8 +28,10 @@ This extension includes a popup UI, background logic, and content script injecti
 - manifest.json – Chrome extension setup.
 
 - .env – (Optional) For storing API keys securely.
+
 ## Notes
 
-I’ve included a copy of my resume in the assets folder. The site is still evolving, and I regularly update it as I learn new things or build new projects.
+Credit to Joshua Alana on Youtube for the in-extension translator format and some code
+© Noah Schipper. All rights reserved.
 
-Thanks for taking a look!
+
