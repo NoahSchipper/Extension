@@ -13,12 +13,19 @@ This is my personal website, built to showcase my background, technical skills, 
 
 website/
 ├── assets/ # Logos, resume, social media icons, and images
+
 ├── about.html
+
 ├── aboutScript.js # JavaScript tied to the about page
+
 ├── contact.html
+
 ├── index.html
+
 ├── projects.html
+
 ├── styles.css # Main CSS file for all pages
+
 └── README.md # This file
 
 
