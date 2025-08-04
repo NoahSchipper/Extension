@@ -32,6 +32,7 @@ This extension includes a popup UI, background logic, and content script injecti
 ## Notes
 
 Credit to Joshua Alana on Youtube for the in-extension translator format and some code
+
 © Noah Schipper. All rights reserved.
 
 
